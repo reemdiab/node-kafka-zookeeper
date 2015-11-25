@@ -33,7 +33,7 @@
     "optimist": "0.6.x",
     "underscore": "1.5.x",
     "underscore.string": "2.3.x",
-    "bignum": "0.6.x",
+    "bignum": "0.11.x",
     "async": "0.2.x"
   },
   "devDependencies": {
